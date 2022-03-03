@@ -1,0 +1,15 @@
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpDotNetInterfaces\obj\Debug\net7.0\CSharpDotNetInterfaces.csproj.AssemblyReference.cache
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpDotNetInterfaces\obj\Debug\net7.0\CSharpDotNetInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpDotNetInterfaces\obj\Debug\net7.0\CSharpDotNetInterfaces.AssemblyInfoInputs.cache
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpDotNetInterfaces\obj\Debug\net7.0\CSharpDotNetInterfaces.AssemblyInfo.cs
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpDotNetInterfaces\obj\Debug\net7.0\CSharpDotNetInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpDotNetInterfaces\bin\Debug\net7.0\CSharpDotNetInterfaces.exe
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpDotNetInterfaces\bin\Debug\net7.0\CSharpDotNetInterfaces.deps.json
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpDotNetInterfaces\bin\Debug\net7.0\CSharpDotNetInterfaces.runtimeconfig.json
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpDotNetInterfaces\bin\Debug\net7.0\CSharpDotNetInterfaces.dll
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpDotNetInterfaces\bin\Debug\net7.0\CSharpDotNetInterfaces.pdb
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpDotNetInterfaces\obj\Debug\net7.0\CSharpDotNetInterfaces.dll
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpDotNetInterfaces\obj\Debug\net7.0\refint\CSharpDotNetInterfaces.dll
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpDotNetInterfaces\obj\Debug\net7.0\CSharpDotNetInterfaces.pdb
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpDotNetInterfaces\obj\Debug\net7.0\CSharpDotNetInterfaces.genruntimeconfig.cache
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpDotNetInterfaces\obj\Debug\net7.0\ref\CSharpDotNetInterfaces.dll
